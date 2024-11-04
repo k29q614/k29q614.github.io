@@ -1,0 +1,35 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #ffebee; /* Light pink background */
+  font-family: Arial, Helvetica, sans-serif;
+  color: #c2185b;
+}
+
+.header {
+  color: #d81b60; /* Darker pink color for the header */
+}
+
+.counter {
+  margin: 20px;
+  display: inline-block;
+  border: 2px solid #d81b60; /* Border around counter */
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #f8bbd0; /* Soft pink for counter area */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.projectInfo {
+  font-style: italic;
+  color: #c2185b; /* A different shade of pink for the project info */
+  margin-top: 15px;
+}
+
+.searchBar {
+  margin-top: 30px;
+  padding: 10px;
+  border: 2px solid #d81b60; /* Border for search bar */
+  border-radius: 5px;
+  background-color: #fce4ec; /* Light pink for search bar */
+}
